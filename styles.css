@@ -41,7 +41,7 @@ a:hover {
     display: flex;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 400px) {
     .info {
         text-align: center;
         display: block;
